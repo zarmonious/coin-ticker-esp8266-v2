@@ -2,4 +2,4 @@
 for KuCoin or 
 
 
-for any coin on CoinGeco
+for any coin on CoinGecko
